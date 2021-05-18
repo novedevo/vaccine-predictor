@@ -54,4 +54,3 @@ percent_under90 = sum(stats[:-1])/total_eligible_population
 finished = sum(stats[-9:])*0.9
 
 # print(avg_daily_delta_vaccines)
-print("a")
