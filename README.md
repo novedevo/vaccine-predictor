@@ -6,4 +6,4 @@ As the vaccination campaign progresses, the forecast will improve due to the add
 
 If you're reading this after COVID-19 vaccination is complete, the API endpoints may no longer be functional.
 
-vaccine-predictor.ipynb is the most complete version, vaccine-predictor.py is now outdated.
+To view the rendered notebook and graph, view `vaccine-predictor.ipynb`.
