@@ -1,8 +1,9 @@
 # vaccine-predictor
 
-This tool automatically fetches the latest data from the British Columbia CDC and a third-party data aggregator, filters, cleans, and processes it, graphs it, and fits a cubic forecast polynomial.
-Demographic data is also shown on the output graph.
-As the vaccination campaign progresses, the forecast will improve due to the additional data.
+This tool automatically fetches the latest data from the British Columbia CDC and a third-party data aggregator, filters, cleans, and processes it, graphs it, and collates demographic data.
+As the vaccination campaign has progressed since thie project began, the graphs have changed.
+The forecast has been removed, since everyone may get vaccinated **right now**!
+Second doses are being distributed with celerity, and forecasts are less useful than they were a few months ago.
 
 If you're reading this after COVID-19 vaccination is complete, the API endpoints may no longer be functional.
 
